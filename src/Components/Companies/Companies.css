@@ -1,0 +1,9 @@
+.companies{
+    display: flex;
+    padding: 2.5rem 0;
+    justify-content: space-around;
+}
+.companies>img{
+    width: 10rem;
+    height: 4rem;
+}

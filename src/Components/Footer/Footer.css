@@ -1,0 +1,31 @@
+.foot {
+  margin: 2rem 12rem 2rem 9rem;
+  /* background-color: blue; */
+  display: flex;
+    height: 10rem;
+    justify-content:space-between;
+    align-items: center;
+}
+.infoRight{
+    font-size: 2rem;
+    color: var(--primary);
+    font-weight:800;
+   
+}
+.info{
+    margin-bottom: 2rem;
+    font-size:15px;
+    color:grey;
+}
+.logoImg img{
+    height: 2.5rem;
+}
+
+.logoDef{
+   color:grey;
+   font-size: 15px;
+}
+.spans>*{
+    font-weight:500;
+   margin-right: 1rem;
+}

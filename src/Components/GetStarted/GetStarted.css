@@ -1,0 +1,46 @@
+.paraGet{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color:rgb(220, 214, 214);
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.getStart{
+    margin: 2rem 12rem 2rem 9rem;
+    height: 15rem;
+    background-color:#4066ff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 0.5rem;
+    border: solid rgb(163, 163, 211) 6px;
+}
+
+.headGet{
+    font-size: 2rem;
+    color: white;
+    font-weight:600;
+}
+
+
+
+.btnget button{
+    
+        font-weight: 500;
+        padding: 0.6rem 1.4rem;
+        color:white;
+        background: rgb(134, 134, 220);
+        border:solid white 2px;
+        border-radius: 7px;
+        transition: all 300ms ease-in ;
+      
+}
+.btnget button:hover{
+    
+    cursor: pointer;
+    transform: scale(1.1);
+  }

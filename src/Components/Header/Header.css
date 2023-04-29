@@ -1,0 +1,25 @@
+.h-container{
+    background-color: var(--black);
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+
+
+.h-menu>*{
+color: var(--secondary);
+
+padding-left: 1rem;
+padding-right: 1rem;
+text-decoration: none;
+
+}
+
+.h-menu>*:hover{
+    cursor: pointer;
+}
+
+
