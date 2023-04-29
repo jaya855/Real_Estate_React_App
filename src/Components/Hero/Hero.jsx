@@ -9,8 +9,7 @@ const Hero = () => {
         <div className='paddings flexCenter innerWidth hero-container'>
 
 
-            
-            <div className='flexColStart hero-left'>
+           <div className='flexColStart hero-left'>
               <div className="hero-title">
                 <div className="orange-circle"/>
                 <motion.h1
